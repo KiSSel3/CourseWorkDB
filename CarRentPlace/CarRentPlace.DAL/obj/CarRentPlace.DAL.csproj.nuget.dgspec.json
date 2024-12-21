@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\CarRentPlace\\CarRentPlace.Infrastructure\\CarRentPlace.Infrastructure.csproj": {}
+    "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\CarRentPlace\\CarRentPlace.DAL\\CarRentPlace.DAL.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\CarRentPlace\\CarRentPlace.Infrastructure\\CarRentPlace.Infrastructure.csproj": {
+    "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\CarRentPlace\\CarRentPlace.DAL\\CarRentPlace.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\CarRentPlace\\CarRentPlace.Infrastructure\\CarRentPlace.Infrastructure.csproj",
-        "projectName": "CarRentPlace.Infrastructure",
-        "projectPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\CarRentPlace\\CarRentPlace.Infrastructure\\CarRentPlace.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\CarRentPlace\\CarRentPlace.DAL\\CarRentPlace.DAL.csproj",
+        "projectName": "CarRentPlace.DAL",
+        "projectPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\CarRentPlace\\CarRentPlace.DAL\\CarRentPlace.DAL.csproj",
         "packagesPath": "C:\\Users\\Kissel\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\CarRentPlace\\CarRentPlace.Infrastructure\\obj\\",
+        "outputPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\CarRentPlace\\CarRentPlace.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
