@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.ConsoleApp\\CarRentPlace.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.ConsoleApp\\CarRentPlace.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.ConsoleApp\\CarRentPlace.ConsoleApp.csproj",
+        "projectName": "CarRentPlace.ConsoleApp",
+        "projectPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.ConsoleApp\\CarRentPlace.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Kissel\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kissel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.DAL\\CarRentPlace.DAL.csproj": {
+                "projectPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.DAL\\CarRentPlace.DAL.csproj"
+              },
+              "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.Domain\\CarRentPlace.Domain.csproj": {
+                "projectPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.Domain\\CarRentPlace.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.DAL\\CarRentPlace.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.DAL\\CarRentPlace.DAL.csproj",
+        "projectName": "CarRentPlace.DAL",
+        "projectPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.DAL\\CarRentPlace.DAL.csproj",
+        "packagesPath": "C:\\Users\\Kissel\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kissel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.Domain\\CarRentPlace.Domain.csproj": {
+                "projectPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.Domain\\CarRentPlace.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.Domain\\CarRentPlace.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.Domain\\CarRentPlace.Domain.csproj",
+        "projectName": "CarRentPlace.Domain",
+        "projectPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.Domain\\CarRentPlace.Domain.csproj",
+        "packagesPath": "C:\\Users\\Kissel\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kissel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

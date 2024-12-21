@@ -1,0 +1,12 @@
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\bin\Debug\net8.0\CarRentPlace.Domain.deps.json
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\bin\Debug\net8.0\CarRentPlace.Domain.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\bin\Debug\net8.0\CarRentPlace.Domain.pdb
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\obj\Debug\net8.0\CarRentPlace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\obj\Debug\net8.0\CarRentPlace.Domain.AssemblyInfoInputs.cache
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\obj\Debug\net8.0\CarRentPlace.Domain.AssemblyInfo.cs
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\obj\Debug\net8.0\CarRentPlace.Domain.csproj.CoreCompileInputs.cache
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\obj\Debug\net8.0\CarRentPlace.Domain.sourcelink.json
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\obj\Debug\net8.0\CarRentPlace.Domain.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\obj\Debug\net8.0\refint\CarRentPlace.Domain.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\obj\Debug\net8.0\CarRentPlace.Domain.pdb
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Domain\obj\Debug\net8.0\ref\CarRentPlace.Domain.dll

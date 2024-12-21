@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarRentPlace.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4f6fbde4c708da49b535f92e1d6accdc2735ed6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0db40ff2d2152efcbd8152b2311805f13205085a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarRentPlace.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarRentPlace.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

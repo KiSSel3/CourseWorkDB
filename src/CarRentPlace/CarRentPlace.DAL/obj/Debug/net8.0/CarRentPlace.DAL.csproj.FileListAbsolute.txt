@@ -1,0 +1,16 @@
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\bin\Debug\net8.0\CarRentPlace.DAL.deps.json
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\bin\Debug\net8.0\CarRentPlace.DAL.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\bin\Debug\net8.0\CarRentPlace.DAL.pdb
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\bin\Debug\net8.0\CarRentPlace.Domain.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\bin\Debug\net8.0\CarRentPlace.Domain.pdb
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\obj\Debug\net8.0\CarRentPlace.DAL.csproj.AssemblyReference.cache
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\obj\Debug\net8.0\CarRentPlace.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\obj\Debug\net8.0\CarRentPlace.DAL.AssemblyInfoInputs.cache
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\obj\Debug\net8.0\CarRentPlace.DAL.AssemblyInfo.cs
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\obj\Debug\net8.0\CarRentPlace.DAL.csproj.CoreCompileInputs.cache
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\obj\Debug\net8.0\CarRentPlace.DAL.sourcelink.json
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\obj\Debug\net8.0\CarRentP.7EB35DC5.Up2Date
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\obj\Debug\net8.0\CarRentPlace.DAL.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\obj\Debug\net8.0\refint\CarRentPlace.DAL.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\obj\Debug\net8.0\CarRentPlace.DAL.pdb
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.DAL\obj\Debug\net8.0\ref\CarRentPlace.DAL.dll

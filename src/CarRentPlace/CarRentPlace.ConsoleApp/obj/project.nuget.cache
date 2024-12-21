@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkEehCLkJFJHpa0+QKbx6iFQ92k2VEYI3B97Ymwksvqb1NR2/kTCFL4y7HJB0GR/ZBhIYRZ67K4Kr6mIK106OQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.ConsoleApp\\CarRentPlace.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kissel\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\Kissel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kissel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kissel\\.nuget\\packages\\npgsql\\8.0.6\\npgsql.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

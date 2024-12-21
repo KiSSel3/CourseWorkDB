@@ -10,4 +10,8 @@
       <ProjectReference Include="..\CarRentPlace.Domain\CarRentPlace.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="2.1.35" />
+    </ItemGroup>
+
 </Project>
