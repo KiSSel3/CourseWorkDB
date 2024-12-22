@@ -1,7 +1,10 @@
+using CarRentPlace.Presentation.Extensions;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.AddDataBase()
+    .AddServices()
+    .AddAuthentication();
 
 var app = builder.Build();
 

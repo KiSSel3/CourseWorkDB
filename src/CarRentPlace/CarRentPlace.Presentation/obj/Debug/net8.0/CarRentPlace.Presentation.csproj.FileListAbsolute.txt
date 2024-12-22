@@ -29,3 +29,13 @@ D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.
 D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\obj\Debug\net8.0\CarRentPlace.Presentation.pdb
 D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\obj\Debug\net8.0\CarRentPlace.Presentation.genruntimeconfig.cache
 D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\obj\Debug\net8.0\ref\CarRentPlace.Presentation.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\bin\Debug\net8.0\Dapper.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\bin\Debug\net8.0\Npgsql.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\bin\Debug\net8.0\CarRentPlace.BLL.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\bin\Debug\net8.0\CarRentPlace.DAL.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\bin\Debug\net8.0\CarRentPlace.Domain.dll
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\bin\Debug\net8.0\CarRentPlace.BLL.pdb
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\bin\Debug\net8.0\CarRentPlace.DAL.pdb
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\bin\Debug\net8.0\CarRentPlace.Domain.pdb
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\obj\Debug\net8.0\CarRentPlace.Presentation.csproj.AssemblyReference.cache
+D:\Programming\BSUIR\SeventhSemester\CourseWorkDB\src\CarRentPlace\CarRentPlace.Presentation\obj\Debug\net8.0\CarRentP.CDDDF249.Up2Date

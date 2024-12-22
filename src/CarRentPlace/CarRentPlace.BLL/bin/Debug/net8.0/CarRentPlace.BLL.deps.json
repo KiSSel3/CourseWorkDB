@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CarRentPlace.BLL/1.0.0": {
+        "dependencies": {
+          "CarRentPlace.DAL": "1.0.0"
+        },
+        "runtime": {
+          "CarRentPlace.BLL.dll": {}
+        }
+      },
+      "Dapper/2.1.35": {
+        "runtime": {
+          "lib/net7.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.35.13827"
+          }
+        }
+      },
+      "CarRentPlace.DAL/1.0.0": {
+        "dependencies": {
+          "CarRentPlace.Domain": "1.0.0",
+          "Dapper": "2.1.35"
+        },
+        "runtime": {
+          "CarRentPlace.DAL.dll": {}
+        }
+      },
+      "CarRentPlace.Domain/1.0.0": {
+        "runtime": {
+          "CarRentPlace.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarRentPlace.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.1.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YKRwjVfrG7GYOovlGyQoMvr1/IJdn+7QzNXJxyMh0YfFF5yvDmTYaJOVYWsckreNjGsGSEtrMTpnzxTUq/tZQw==",
+      "path": "dapper/2.1.35",
+      "hashPath": "dapper.2.1.35.nupkg.sha512"
+    },
+    "CarRentPlace.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarRentPlace.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

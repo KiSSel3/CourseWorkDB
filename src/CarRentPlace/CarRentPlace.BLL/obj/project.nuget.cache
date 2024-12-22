@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mG0lG6GmQ0viAlpNCCFShsMjnqZTLlmt7/5Jj5bgmAUoKcDVkbLVsGE1GVgaiUIyBJt2xaNgTm0IjTpBJtQAZQ==",
+  "dgSpecHash": "yE9NU/jG4x98Icij+h3W7pI+OAfDbNPqyC8TiLRACmSh747XgJeZUggTht87RUxDXotcgMpHDll0OKSWLdtpWQ==",
   "success": true,
   "projectFilePath": "D:\\Programming\\BSUIR\\SeventhSemester\\CourseWorkDB\\src\\CarRentPlace\\CarRentPlace.BLL\\CarRentPlace.BLL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Kissel\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
   "logs": []
 }
